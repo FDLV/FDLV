@@ -2,7 +2,7 @@
 
 ### 📖 About me
 - 💼 Frontend developer who loves React and Vue
-- 🎓 Bachelor of Computer Science
+- 🎓 Master of Computer Science
 
 ### 🛠 Technologies
 <div>
